@@ -1,0 +1,12 @@
+{
+  "routes": [
+    {
+      "src": "/latest.apk",
+      "dest": "/Jaztea-1.3.32-PROD.apk"
+    },
+    {
+      "src": "/version.json",
+      "dest": "/version.json"
+    }
+  ]
+}
