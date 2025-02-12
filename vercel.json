@@ -1,7 +1,7 @@
 {
   "routes": [
     {
-      "src": "/latest.apk",
+      "src": "/prod.apk",
       "dest": "/Jaztea-1.3.32-PROD.apk",
       "headers": {
         "Content-Type": "application/vnd.android.package-archive",
